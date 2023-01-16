@@ -1,21 +1,16 @@
 #Understanding the problem statement -
 
-#Consider, there is a finance company that gives loan to people. 
-#But before processing a loan this company considers and evaluates 
-#several parameters of the candidates. This loan eligibility process 
-#is based on customer detail provided while filling out online 
+#Consider, there is a finance company that gives loan to people. But before processing a loan this company considers and evaluates 
+#several parameters of the candidates. This loan eligibility process is based on customer detail provided while filling out online 
 #application forms. These details are gender, marital status, 
-#education, number of dependents, income, loan amount, credit history
-#and others. 
-#to automate this process, they have provided a dataset to identify 
-#the customer segments that are eligible for loan amounts so that 
-#they can specifically target these customers. 
+#education, number of dependents, income, loan amount, credit history and others. 
 
-# Here, we will build a machine learning algorithm that automates 
-# this process of selecting the candidates for loan based on their 
-# eligibility.  
+# Our job is to build a machine learning algorithm that automates this process of selecting the candidates for loan based on their eligibility.
 
-#workflow 
+#This automation process helps the company to identify the customer segments that are eligible for loan amounts. This helps the company to 
+#specifically target these customer segments. 
+
+#Workflow for the project - 
 #1. load data 
 #2. data preprocessing 
 #3. train test split 
