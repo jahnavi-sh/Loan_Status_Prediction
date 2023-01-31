@@ -59,7 +59,7 @@ loan_dataset.head()
 #13.Loan_Status - Y or N
 
 #view the total number of rows and columns of the dataset 
-loan_dataset.show
+loan_dataset.shape
 #data has 614 rows (614 data points) and 13 columns 
 
 #statistical measures 
